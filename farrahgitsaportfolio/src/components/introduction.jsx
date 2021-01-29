@@ -26,7 +26,7 @@ export default class Introduction extends Component {
           <a className="navbar-brand" href="#">Farrah-solve (Farrah Heath)</a>
         </div>
         <div>
-  <link />https://docs.google.com/document/d/1nWoNtNzuJ_uIPhcQPArPYueewUoc9ci85p3AjteYa4I/edit
+  <link />https://docs.google.com/document/d/1nWoNtNzuJ_uIPhcQPArPYueewUoc9ci85p3AjteYa4I/edit?usp=sharing
 </div>
 
         <div className="collapse navbar-collapse top-right-menu-ul bounceInRight wow" id="bs-example-navbar-collapse-1" data-wow-duration="4s">
