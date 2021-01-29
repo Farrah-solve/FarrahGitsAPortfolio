@@ -4,6 +4,7 @@ export default class Introduction extends Component {
   render() {
     return (
 
+ 
 
 <div>
   <title>Farrah-solve Portfilio</title>
@@ -24,6 +25,10 @@ export default class Introduction extends Component {
           </button>
           <a className="navbar-brand" href="#">Farrah-solve (Farrah Heath)</a>
         </div>
+        <div>
+  <link />https://docs.google.com/document/d/1nWoNtNzuJ_uIPhcQPArPYueewUoc9ci85p3AjteYa4I/edit
+</div>
+
         <div className="collapse navbar-collapse top-right-menu-ul bounceInRight wow" id="bs-example-navbar-collapse-1" data-wow-duration="4s">
           <ul className="nav navbar-nav navbar-right">
             <li><a href="#features">Features</a></li>
@@ -107,6 +112,7 @@ export default class Introduction extends Component {
             <div className="more-features-div-description">
               Whether for business, personal or self-promotion, let it be yours.
             </div>
+            
           </div>
         </div>
       </div>
