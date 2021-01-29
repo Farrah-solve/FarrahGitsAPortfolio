@@ -33,7 +33,7 @@ body
     background-color: #65CD00;
 }
 
-/* Header CSS */
+
 
 .header-div
 {
@@ -81,7 +81,7 @@ body
 }
 
 
-/* Features CSS */
+
 .features-div
 {
 	text-align: center;
@@ -170,7 +170,7 @@ body
     font-weight: 300;
 }
 
-/* Services CSS */
+
 .services-box-gray {
     background: #f8f8f8;
 }
@@ -200,7 +200,7 @@ body
     line-height: 25px;
 }
 
-/* Price Table CSS */
+
 
 .pricing-box {
     background: #f8f8f8;
@@ -300,7 +300,7 @@ body
     color: #fff;
 }
 
-/* Call Action */
+
 .call-action-bg
 {
 	background-image: url(../images/dashboard-img.jpg);
@@ -334,7 +334,7 @@ body
 	background-color: #fff;
 }
 
-/* About */
+
 .about-us-box {
     padding-top: 30px;
     padding-bottom: 15px;
@@ -385,7 +385,7 @@ body
 }
 
 
-/* Footer */
+
 
 footer {
     padding: 40px 0 35px 0;
@@ -405,7 +405,7 @@ footer {
 
 
 
-/* Bootstrap CSS */
+
 .navbar-default {
     background-color: transparent;
     border-color: transparent;
@@ -428,7 +428,7 @@ footer {
     background-color: transparent;
 }
 
-/* Extra Small devices  */
+
 @media (max-width: 480px) {
 	.more-features-div-description, .more-features-div-heading
 	{
@@ -453,7 +453,7 @@ footer {
 	}
 }
 
-/* Extra Small devices  */
+
 @media (max-width: 767px) {
 	.slide-text h1
 	 {
@@ -466,7 +466,7 @@ footer {
 	}
 }
 
-/* Small devices (tablets, 768px and up) */
+
 @media (min-width: 768px) {
 	 .pricing-box
 	 {
@@ -484,13 +484,11 @@ footer {
 	}
 }
 
-/* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
 }
 
-/* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-	/* Typography CSS */
+
 
 body
 {
@@ -519,7 +517,6 @@ body
     background-color: #65CD00;
 }
 
-/* Header CSS */
 
 .header-div
 {
@@ -567,7 +564,6 @@ body
 }
 
 
-/* Features CSS */
 .features-div
 {
 	text-align: center;
@@ -651,7 +647,6 @@ body
     font-weight: 300;
 }
 
-/* Services CSS */
 .services-box-gray {
     background: #f8f8f8;
 }
@@ -681,7 +676,6 @@ body
     line-height: 25px;
 }
 
-/* Price Table CSS */
 
 .pricing-box {
     background: #f8f8f8;
@@ -780,7 +774,6 @@ body
     color: #fff;
 }
 
-/* Call Action */
 .call-action-bg
 {
 	background-image: url(../images/dashboard-img.jpg);
@@ -814,7 +807,6 @@ body
 	background-color: #fff;
 }
 
-/* About */
 .about-us-box {
     padding-top: 30px;
     padding-bottom: 15px;
@@ -865,7 +857,6 @@ body
 }
 
 
-/* Footer */
 
 footer {
     padding: 40px 0 35px 0;
@@ -885,7 +876,6 @@ footer {
 
 
 
-/* Bootstrap CSS */
 .navbar-default {
     background-color: transparent;
     border-color: transparent;
