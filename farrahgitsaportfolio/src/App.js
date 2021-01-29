@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 import Introduction from './components/introduction'
+import Animate from './components/animate'
 
 class App extends Component {
   render() {
@@ -11,7 +12,7 @@ class App extends Component {
          	
 				<div id="colorlib-main">
 					<Introduction></Introduction>
-					
+					<Animate></Animate>
           	</div>
       	</div>
       </div>
